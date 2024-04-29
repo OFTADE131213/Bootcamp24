@@ -1,0 +1,56 @@
+.change{
+    margin: auto;
+     width:400px; 
+      height:400px; 
+      display: flex; 
+      flex-direction: column;
+       border:solid 1px
+}
+
+.change-1{
+    display: flex;  height: 25%;
+}
+.change-2{
+    width:28%;
+     border: solid 1px;
+}
+
+.change-3{
+    width:44%;
+     border: solid 1px;
+}
+.change-4{
+    display: flex;
+     border: solid 1px;
+      height:75%;
+}
+.change-5{
+    display: flex; 
+    flex-direction:column ;
+     width:35%;
+}
+.change-6{
+    border: solid 1px;
+     height:55%;
+}
+.change-7{
+    border: solid 1px;
+     height:45%;
+}
+.change-8{
+    display: flex;
+    flex-direction: column;
+      width:65%;
+}
+.change-9{
+    border: solid 1px; 
+    height:34%;
+}
+.change-10{
+    border: solid 1px;
+     height:38%;
+}
+.change-11{
+    border: solid 1px ; 
+    height:28%;
+}
