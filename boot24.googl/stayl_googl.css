@@ -1,0 +1,189 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+}
+
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+    display: block;
+}
+
+body {
+    line-height: 1;
+}
+
+ol,
+ul {
+    list-style: none;
+}
+
+blockquote,
+q {
+    quotes: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+body{
+    background-color: rgb(9, 3, 56);
+}
+.flex {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.bg-color {
+    background-color: rgb(60, 50, 100);
+}
+
+.padding {
+    padding: .7rem;
+}
+.input-style {
+    height: 1.5rem;
+    width: 73rem;
+    border-radius: .2rem;
+    background-color: rgb(255, 255, 255);
+}
+.senter{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 255, 255);
+    font-size: 8rem;
+    margin-top: 10rem;
+    display: flex;
+    justify-content: center;
+}
+.input-style-2{
+    width: 45rem;
+    margin-top: 3rem;
+    border-radius: .25rem;
+    height: 3rem;
+}
+.flex-3{
+    justify-content: center;
+    display: flex;
+}
+.stayl-3{
+     text-decoration: none;
+     color:white;
+    font-size: 1rem;
+}
+.stayl-4{
+    margin-top: 1rem;
+    margin-left: 2rem;
+}
+.stayl-5{
+    margin-left: 1rem;
+}
+
+
